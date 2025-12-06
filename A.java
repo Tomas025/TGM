@@ -81,7 +81,7 @@ class A extends C{
 	}
 	
 	public int me(){
-		int aa = 1;
+		int aa = 2;
 		int bb = 2;
 		int x;
 		int c = 1;
@@ -91,5 +91,8 @@ class A extends C{
     public void mama(){
         int x = 256;
     }
+	public int xexe(int x){
+		return x;
+	}
 	
 }
