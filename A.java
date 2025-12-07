@@ -102,6 +102,7 @@ class A extends C{
 
 
 	public int calcular() {
+		System.out.println("soma");
 		return a + b;
 	}
 
