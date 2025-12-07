@@ -101,7 +101,7 @@ class A extends C{
 
 
 
-	public int calcular() {
+	public int somar() {
 		return a + b;
 	}
 
