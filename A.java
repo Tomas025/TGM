@@ -91,8 +91,23 @@ class A extends C{
     public void mama(){
         int x = 256;
     }
+	
 	public int xexe(int x){
 		return x;
 	}
+
+
+
+
+
+
+	public int calcular() {
+		return a + b;
+	}
+
+
+
+
+
 	
 }
